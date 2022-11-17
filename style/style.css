@@ -8,6 +8,11 @@
     background-position : center;
     background-attachment: scroll;
 }
+
+.home-bg{
+    height : 100vh;
+}
+
 .divider{
     height: 0.5rem;
     max-width: 20rem;
