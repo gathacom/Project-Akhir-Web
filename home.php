@@ -22,10 +22,10 @@
                 <div class="collapse navbar-collapse justify-content-md-center" id="navbarsMiddle">
                     <ul class="navbar-nav mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a href="#home" class="nav-link active" aria-current="page">HOME</a>
+                            <a href="home.php" class="nav-link active" aria-current="page">HOME</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#home" class="nav-link active" aria-current="page">PROFILE</a>
+                            <a href="profil.php" class="nav-link active" aria-current="page">PROFILE</a>
                         </li>
                         <li class="nav-item">
                             <a href="#home" class="nav-link active" aria-current="page">CONTACT</a>
@@ -37,7 +37,7 @@
                 </div>
             </div>
         </nav>
-        <div class="container px-2 mt-3">
+        <div class="container px-2 mt-5">
             <div class="row gx-3 d-flex align-items-center justify-content-center">
                 <div class="col-6 col-lg-5 col-xl-5 col-xxl-4 ">
                     <div class="my-5 text-warning text-center text-xl-start">
